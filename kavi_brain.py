@@ -2,7 +2,7 @@ import requests
 import json
 
 # Your new OpenRouter API key
-API_KEY = "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"
+API_KEY = ""
 
 # Choose your model — you can replace with deepseek/deepseek-r1 if preferred
 MODEL_NAME = "deepseek/deepseek-chat"
